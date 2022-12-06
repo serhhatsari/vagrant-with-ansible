@@ -1,0 +1,6 @@
+---
+- name: Configure Virtual Machines
+  hosts: all
+  become: yes # sudo privilige
+  roles:
+    - common
