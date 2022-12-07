@@ -7,4 +7,4 @@ This command will create 2 virtual machines and configure them with the existing
 
 In order to SSH to virtual machine:    
 `vagrant ssh <vm-name>`  
-exp: vagrant ssh node1  
+*exp: vagrant ssh node1*   
